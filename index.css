@@ -1,0 +1,11 @@
+.button {
+    user-select: none;
+    cursor: pointer;
+    border: solid;
+    border-color: slategrey;
+    display: inline-block
+}
+
+#code-textarea {
+    display: block;
+}
